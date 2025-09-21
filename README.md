@@ -4,4 +4,5 @@ Lista zawiera osobiście zbierane nazwy domenowe, które są blokowane w związk
 - próbami psishingu,
 - złośliwymi domenami,
 - natrętnymi reklamami,
+- domenami używanymi przez spamerów,
 - itp...
