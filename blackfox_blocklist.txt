@@ -49,3 +49,5 @@ salelifter.com
 palac.info
 ad-verify.dreamlab.pl
 csr.onet.pl
+s.mailing.salelifter.com
+1.dr-n.pl
