@@ -55,3 +55,9 @@ link.interia.pl
 link.snrs.it
 app.getresponse.com
 horizons.confirmit.eu
+ad-verify.dreamlab.pl
+infostransit.com
+dataastream.com
+instantmailforward.com
+exprescoms.com
+dumpsend.com
