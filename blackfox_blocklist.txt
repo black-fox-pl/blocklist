@@ -1,4 +1,4 @@
-#Updated 2025-10-03
+#Updated 2025-10-04
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -81,3 +81,5 @@ rossmann.emaillabs.info.pl
 user.versum.com
 dozpl.emaillabs.info.pl
 system.message-flow.net
+notifications.psee.io
+pabliszers.go2cloud.org
