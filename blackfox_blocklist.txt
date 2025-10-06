@@ -1,4 +1,4 @@
-#Updated 2025-10-05
+#Updated 2025-10-06
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -84,3 +84,4 @@ system.message-flow.net
 notifications.psee.io
 pabliszers.go2cloud.org
 energy-claims.blog
+system.mailforyou.net.pl
