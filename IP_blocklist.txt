@@ -1,4 +1,5 @@
-# Updated 2025-10-03
+# Updated 2025-10-18
 # Lista adresów IP serwerów używanych przez spamerów
 # do utrzymywania swoich "serwisów" www
 176.100.36.129
+5.183.101.178
