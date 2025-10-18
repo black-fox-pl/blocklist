@@ -1,4 +1,4 @@
-#Updated 2025-10-16
+#Updated 2025-10-18
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -103,3 +103,5 @@ newsletter.mariolakurczynska.pl
 qr.wcax.com
 www.contests.nycfc.com
 loops-trackworld.com
+antivirus-pro.info
+aezakmiaezakmi.duckdns.org
