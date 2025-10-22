@@ -1,4 +1,4 @@
-#Updated 2025-10-20
+#Updated 2025-10-22
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -108,3 +108,4 @@ aezakmiaezakmi.duckdns.org
 diffsend.com
 netad.go2cloud.org
 gamergold.info
+track.wowmediametrics.pl
