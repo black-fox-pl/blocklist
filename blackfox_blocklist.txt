@@ -1,4 +1,4 @@
-#Updated 2025-11-11
+#Updated 2025-11-12
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -129,3 +129,4 @@ arenib.enib.fr
 a.u-ns.pl
 healthineducation.co.uk
 campaign.espatial.com
+casinolab8.duckdns.org
