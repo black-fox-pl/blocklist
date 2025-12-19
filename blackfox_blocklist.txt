@@ -1,4 +1,4 @@
-#Updated 2025-12-18
+#Updated 2025-12-19
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -138,6 +138,7 @@ christiansen.protectetantivirus.shop
 click.mlsend2.com
 annualreport.cem.edu.au
 system.effectivemail.net.pl
+info.effectivemail.net.pl
 luckygem.duckdns.org
 zrwwdp.clicks.mlsend2.com
 antispam-antivirus.nl
