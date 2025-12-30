@@ -172,3 +172,4 @@ engagenewtab.pl
 mayon.link.emailweb.pl
 sygic-public.infinario.com
 tracking.bricomarche.pl
+smartgiftdeals.site
