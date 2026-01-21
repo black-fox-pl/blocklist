@@ -1,4 +1,4 @@
-# Updated 2026-01-19
+# Updated 2026-01-21
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -209,3 +209,5 @@ zmianasylwetki.acemlnb.com
 smsgratis.net
 mt1.praca.pl
 wiza.villaggioledune.net
+maillaccess.com
+amzonurledirect.s3.eu-north-1.amazonaws.com
