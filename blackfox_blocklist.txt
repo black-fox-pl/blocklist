@@ -1,4 +1,4 @@
-# Updated 2026-01-21
+# Updated 2026-01-25
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -34,6 +34,8 @@ rcblox.com.ng
 rcblox.com.pl
 rcblox.info
 rcblox.nl
+roblox.gf
+roblox.cd
 rcblox.org
 rcbloxs.com
 rcbloxx.com
@@ -48,6 +50,9 @@ roblox.com.sb
 roblox.com.zm
 roblox.com.tg
 roblox.com.vc
+roblox.com.ml
+roblox.com.py
+roblox.com.ge
 roblox.et
 roblox.fo
 roblox.ge
@@ -58,6 +63,9 @@ roblox.mq
 roblox.tc
 robloxx.com.kz
 wvyw-roblox.com
+www.roblox.com.ml
+www.roblox.com.ht
+www.roblox.tc
 web-www-roblox.com
 ssteamcommmunity.online
 ssteamcommunitry.com
@@ -211,3 +219,5 @@ mt1.praca.pl
 wiza.villaggioledune.net
 maillaccess.com
 amzonurledirect.s3.eu-north-1.amazonaws.com
+www.facebook.loginform.biz
+2026-whatsapp.com
