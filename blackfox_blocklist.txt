@@ -1,4 +1,4 @@
-# Updated 2026-01-27
+# Updated 2026-02-01
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -222,3 +222,5 @@ amzonurledirect.s3.eu-north-1.amazonaws.com
 www.facebook.loginform.biz
 2026-whatsapp.com
 rasp.salesmanago.com
+alfabeta.click
+car2tint.co.uk
