@@ -1,4 +1,4 @@
-# Updated 2026-02-09
+# Updated 2026-02-14
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -225,3 +225,4 @@ rasp.salesmanago.com
 alfabeta.click
 car2tint.co.uk
 info.hypemail.pl
+adboosts.cloud
