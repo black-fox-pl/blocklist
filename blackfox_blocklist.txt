@@ -228,3 +228,4 @@ info.hypemail.pl
 adboosts.cloud
 test.equipment-generator.ix3.com
 mail.aewens.com
+uginvestment.com
