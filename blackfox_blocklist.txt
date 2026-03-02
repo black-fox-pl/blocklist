@@ -1,4 +1,4 @@
-# Updated 2026-02-28
+# Updated 2026-03-02
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -236,3 +236,4 @@ www.yorkpress.co.uk
 oconnell.isp-bielefeld.de
 m.destaco.se
 dickinson.m-advisors.de
+apcf.schoepfungstag.de
