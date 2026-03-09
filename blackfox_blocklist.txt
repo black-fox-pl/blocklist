@@ -255,3 +255,5 @@ pg.superzakupy.eu
 tr.superzakupy.eu
 huel.lavivienda.info
 beier.airdgroup.co.uk
+system.hypemail.pl
+info.hypemail.pl
