@@ -1,4 +1,4 @@
-# Updated 2026-03-25
+# Updated 2026-03-26
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -302,3 +302,5 @@ batz.best1-host.com
 h3v05.r.a.d.sendibm1.com
 will.valetravel.co.uk
 cronin.kalamaprecision.com
+mandrillapp.com
+kovacek.seatonroad.org.uk
