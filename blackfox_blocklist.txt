@@ -1,4 +1,4 @@
-# Updated 2026-04-01
+# Updated 2026-04-02
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -316,3 +316,5 @@ hermiston.internet-labs.net
 wyman.incricket.pro
 muller.voiceofthechurch.org
 langworth.bdlocal.us
+brightexpectations.org.uk
+kessler.brightexpectations.org.uk
