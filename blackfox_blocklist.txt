@@ -1,4 +1,4 @@
-# Updated 2026-04-04
+# Updated 2026-04-05
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -321,3 +321,7 @@ kessler.brightexpectations.org.uk
 jacobi.casadelimon.co.uk
 russel.atsf.nl
 farrell.casadelimon.co.uk
+spinka.campusradio-online.de
+simonis.ssl124.us
+predovic.mythos-draconis.de
+redirect-system-e5318.web.app
