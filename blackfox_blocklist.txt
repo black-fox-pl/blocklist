@@ -1,4 +1,4 @@
-# Updated 2026-04-30
+# Updated 2026-05-03
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -296,3 +296,5 @@ bymf.algobonitobymf.com
 theviplife.co.uk
 duelcom.online
 xianyang.info
+preview.mailerlite.io
+fusionfilm.online
