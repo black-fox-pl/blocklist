@@ -1,5 +1,5 @@
 # A list of websites containing links from email spam, based on my own experiences and sources
-# Updated 2026-05-21
+# Updated 2026-05-22
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -308,3 +308,4 @@ jia0.my
 h-10.co.uk
 tophifi.user.com
 click.info15.citi.com
+igraprestolovserialese.online
