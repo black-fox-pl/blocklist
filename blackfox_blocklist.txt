@@ -1,5 +1,5 @@
 # A list of websites containing links from email spam, based on my own experiences and sources
-# Updated 2026-05-24
+# Updated 2026-05-27
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -316,3 +316,7 @@ mail1.invisio.pl
 paulcooperracing.co.uk
 mayert.gardenofedengifts.com
 rcara.net
+crazytime-playhere.com
+cosmiccashslot.com
+dgeylv.clicks.mlsend2.com
+vararchsix.icu
