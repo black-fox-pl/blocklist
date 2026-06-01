@@ -1,5 +1,5 @@
 # A list of websites containing links from email spam, based on my own experiences and sources
-# Updated 2026-05-27
+# Updated 2026-06-01
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -49,6 +49,7 @@ loxwpm.clicks.mlsend.com
 epxxlx.clicks.mlsend2.com
 zwvvqra.clicks.mlsend.com
 loxwpm.clicks.mlsend2.com
+leqdvx.clicks.mlsend.com
 sklep.aleefrajda.pl
 timcard25.airmiles.ca
 ediresendmail.com
