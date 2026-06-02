@@ -1,5 +1,5 @@
 # A list of websites containing links from email spam, based on my own experiences and sources
-# Updated 2026-06-01
+# Updated 2026-06-02
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -324,3 +324,8 @@ dgeylv.clicks.mlsend2.com
 vararchsix.icu
 stokes.r-z-multimedia.de
 e.e.mail.realtor.com
+reichel.hkt-bremerhaven.de
+collins.concreteworks.us
+robel.alfons-hochhauser.de
+lordfilmziv.online
+hummuscuisineaustin.com
