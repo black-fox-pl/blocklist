@@ -1,5 +1,5 @@
 # A list of websites containing links from email spam, based on my own experiences and sources
-# Updated 2026-06-12
+# Updated 2026-06-15
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -337,3 +337,4 @@ blackjackonlineplay.com
 click.edrone.io
 erebus.link.emailweb.pl
 wptrdtkd.ddns.net
+nelordifilmzyn.online
