@@ -1,4 +1,4 @@
-# Updated 2026-05-19
+# Updated 2026-06-15
 # Lista adresów IP serwerów używanych przez spamerów
 # do utrzymywania swoich "serwisów" www
 # Doatkowo umieszczane są adresy IP związane z malware
@@ -28,3 +28,4 @@
 45.150.34.158
 207.148.66.14
 164.152.123.6
+193.168.140.202
