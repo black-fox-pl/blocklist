@@ -1,5 +1,5 @@
 # A list of websites containing links from email spam, based on my own experiences and sources
-# Updated 2026-07-04
+# Updated 2026-07-06
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -350,3 +350,7 @@ oreilly.heartlandmoaa.us
 cardigan-kitchens.co.uk
 mailing.vfp.pl
 www.xing.com
+rice.nicolstephen.org.uk
+quigley.campusradio-online.de
+kirlin.campusradio-online.de
+goodwin.twentyone.cam
