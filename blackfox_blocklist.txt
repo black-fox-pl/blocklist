@@ -1,5 +1,5 @@
 # A list of websites containing links from email spam, based on my own experiences and sources
-# Updated 2026-07-06
+# Updated 2026-07-07
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -354,3 +354,5 @@ rice.nicolstephen.org.uk
 quigley.campusradio-online.de
 kirlin.campusradio-online.de
 goodwin.twentyone.cam
+bode.kyokohari.net
+morar.daubneyagency.co.uk
