@@ -1,5 +1,5 @@
 # A list of websites containing links from email spam, based on my own experiences and sources
-# Updated 2026-07-09
+# Updated 2026-07-11
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -359,3 +359,6 @@ bode.kyokohari.net
 morar.daubneyagency.co.uk
 berliner-ruderjugend.de
 osteland-ferienhaus.de
+pfannerstill.dinotechnik.de
+howell.eaase.asia
+projectcenter.us
