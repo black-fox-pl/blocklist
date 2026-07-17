@@ -1,4 +1,4 @@
-# Updated 2026-07-03
+# Updated 2026-07-14
 # Lista adresów IP serwerów używanych przez spamerów
 # do utrzymywania swoich "serwisów" www
 # Doatkowo umieszczane są adresy IP związane z malware
@@ -45,3 +45,10 @@
 93.152.224.39
 94.26.90.112
 146.19.248.120
+#https://gbhackers.com/salesforce-oauth-abused/
+138.226.246.94
+212.86.125.24
+213.111.148.90
+94.154.32.160
+103.75.11.78
+103.75.11.110
