@@ -1,5 +1,5 @@
 # A list of websites containing links from email spam, based on my own experiences and sources
-# Updated 2026-08-24
+# Updated 2026-08-25
 2ly.link
 ad-verify.dreamlab.pl
 antivirusfinance.com
@@ -374,3 +374,4 @@ jlordifilmyttt.online
 lyntrent.space
 wootown.org
 mail.kiku-co.com
+kleider-kunst.com
