@@ -1,5 +1,5 @@
 # A list of websites containing links from email spam, based on my own experiences and sources
-# Updated 2026-09-13
+# Updated 2026-09-21
 0.dokti.pl
 1.dr-n.pl
 1ltuylw4zf.execute-api.eu-central-1.amazonaws.com
@@ -376,3 +376,4 @@ zpr.io
 zrwwdp.clicks.mlsend2.com
 zrwwdp.clicks.mlsend.com
 zwvvqra.clicks.mlsend.com
+ads.sfsender.pl
