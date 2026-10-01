@@ -1,5 +1,5 @@
 # A list of websites containing links from email spam, based on my own experiences and sources
-# Updated 2026-09-27
+# Updated 2026-10-01
 0.dokti.pl
 1.dr-n.pl
 1ltuylw4zf.execute-api.eu-central-1.amazonaws.com
@@ -382,3 +382,8 @@ click.e.lowes.com
 sport-fun-direkt.com
 smartnewstart.nl
 keelstravel.site
+cor1-161255673571.southamerica-east1.run.app
+cor3-161255673571.southamerica-east1.run.app
+s12-455312475075.southamerica-east1.run.app
+cor5-161255673571.southamerica-east1.run.app
+s11-455312475075.southamerica-east1.run.app
