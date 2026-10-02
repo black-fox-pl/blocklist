@@ -387,3 +387,4 @@ cor3-161255673571.southamerica-east1.run.app
 s12-455312475075.southamerica-east1.run.app
 cor5-161255673571.southamerica-east1.run.app
 s11-455312475075.southamerica-east1.run.app
+faithbird.com
