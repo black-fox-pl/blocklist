@@ -1,5 +1,5 @@
 # A list of websites containing links from email spam, based on my own experiences and sources
-# Updated 2026-10-01
+# Updated 2026-10-07
 0.dokti.pl
 1.dr-n.pl
 1ltuylw4zf.execute-api.eu-central-1.amazonaws.com
@@ -18,6 +18,7 @@ adboosts.cloud
 ad.doubleclick.net
 admin.gagasports.chicago-fire.com
 admin.secretdesires.ai
+ads.sfsender.pl
 ad-verify.dreamlab.pl
 aezakmiaezakmi.duckdns.org
 aippcloud.space
@@ -76,6 +77,7 @@ christiansen.protectetantivirus.shop
 click.a.mango.com
 click.drtusz.pl
 click.edrone.io
+click.e.lowes.com
 click.info15.citi.com
 click.mc.apart.pl
 click.mlflow.com
@@ -86,6 +88,9 @@ collectrons.info
 collins-1.country-fare.co.uk
 collins.concreteworks.us
 collins.pcrm.nl
+cor1-161255673571.southamerica-east1.run.app
+cor3-161255673571.southamerica-east1.run.app
+cor5-161255673571.southamerica-east1.run.app
 cosmiccashslot.com
 crazytime-playhere.com
 cremin.ssl124.us
@@ -122,6 +127,7 @@ ev8s5t.fj53.fdske.com
 everistinomo.nl
 exprescoms.com
 ezewbx.clicks.mlsend.com
+faithbird.com
 farrell.casadelimon.co.uk
 festgeldzinsen24.de
 financeguardpro.com
@@ -172,6 +178,7 @@ jlordifilmyttt.online
 jmqy.aughwicktractorshow.com
 kampaniapro.pl
 kassulke.protectetantivirus.shop
+keelstravel.site
 kessler.brightexpectations.org.uk
 kietve.co.uk
 kihn.brianjobson.co.uk
@@ -217,6 +224,7 @@ misesajourcloud.camdvr.org
 mlsend2.com
 mmzdam.clicks.mlsend2.com
 moitir.org
+monafib.munafomobili.it
 morar.daubneyagency.co.uk
 mrtg.emailpartners.net
 mrthornenetwork.com
@@ -282,6 +290,8 @@ rossmann.emaillabs.info.pl
 runolfsdottir.itasya.net
 russel.atsf.nl
 r.xya.pl
+s11-455312475075.southamerica-east1.run.app
+s12-455312475075.southamerica-east1.run.app
 sadougu-miyahara.jp
 salelifter.com
 salesmanago.pl
@@ -299,9 +309,12 @@ sipes.godwindevelopments.co.uk
 sklep.aleefrajda.pl
 s.mailing.salelifter.com
 smartgiftdeals.site
+smartnewstart.nl
 smsdroles.info
 smsgratis.net
+socalrmdz.com
 spinka.campusradio-online.de
+sport-fun-direkt.com
 srr.ekomi.com
 stamm.oursong.us
 staysafejewelry.com
@@ -358,6 +371,7 @@ witting.annoco.co.uk
 wiza.villaggioledune.net
 wootown.org
 wowdigital.go2cloud.org
+wppl.myvnc.com
 wptrdtkd.ddns.net
 wspace-service.de
 www.contests.nycfc.com
@@ -376,15 +390,3 @@ zpr.io
 zrwwdp.clicks.mlsend2.com
 zrwwdp.clicks.mlsend.com
 zwvvqra.clicks.mlsend.com
-ads.sfsender.pl
-socalrmdz.com
-click.e.lowes.com
-sport-fun-direkt.com
-smartnewstart.nl
-keelstravel.site
-cor1-161255673571.southamerica-east1.run.app
-cor3-161255673571.southamerica-east1.run.app
-s12-455312475075.southamerica-east1.run.app
-cor5-161255673571.southamerica-east1.run.app
-s11-455312475075.southamerica-east1.run.app
-faithbird.com
