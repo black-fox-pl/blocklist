@@ -1,5 +1,5 @@
 # A list of websites containing links from email spam, based on my own experiences and sources
-# Updated 2026-10-23
+# Updated 2026-10-25
 0.dokti.pl
 1.dr-n.pl
 1ltuylw4zf.execute-api.eu-central-1.amazonaws.com
@@ -73,6 +73,7 @@ caringunfasten.org.uk
 casinolab8.duckdns.org
 caslitsend.com
 cdn.exponea.com
+cevxli.bestpropertyblog.my
 christiansen.protectetantivirus.shop
 click.a.mango.com
 click.drtusz.pl
@@ -92,6 +93,7 @@ cor1-161255673571.southamerica-east1.run.app
 cor3-161255673571.southamerica-east1.run.app
 cor5-161255673571.southamerica-east1.run.app
 cosmiccashslot.com
+cpaas8561076.nazwa.pl
 crazytime-playhere.com
 cremin.ssl124.us
 cronin.kalamaprecision.com
@@ -123,6 +125,7 @@ enxx.aughwicktractorshow.com
 epxxlx.clicks.mlsend2.com
 epxxlx.clicks.mlsend.com
 erebus.link.emailweb.pl
+et06a43r3h8.s3.ap-south-1.amazonaws.com
 ev8s5t.fj53.fdske.com
 everistinomo.nl
 exprescoms.com
@@ -144,6 +147,7 @@ go2cloud.org
 go4jump.com
 goodwin.twentyone.cam
 goyette.apo3rosen.de
+gpscri.ocalabrations.com
 gusikowski.bestbuymovie.de
 h-10.co.uk
 h3v05.r.a.d.sendibm1.com
@@ -256,6 +260,7 @@ palac.info
 parker.voiceofthechurch.org
 paulcooperracing.co.uk
 petrageuting.de
+pfaf5.r.ag.d.sendibm3.com
 pfannerstill.dinotechnik.de
 pg.superzakupy.eu
 pnqr.moabwashandfold.com
@@ -283,6 +288,7 @@ rice.nicolstephen.org.uk
 r.lpx.aleefrajda.pl
 robel.alfons-hochhauser.de
 roberts.paradisetravel.my
+rocknrolly.asia
 rodharden.com
 rodriguez.rainer-ruber.de
 rolfson.peppapig.org.uk
@@ -390,8 +396,3 @@ zpr.io
 zrwwdp.clicks.mlsend2.com
 zrwwdp.clicks.mlsend.com
 zwvvqra.clicks.mlsend.com
-cevxli.bestpropertyblog.my
-gpscri.ocalabrations.com
-rocknrolly.asia
-pfaf5.r.ag.d.sendibm3.com
-cpaas8561076.nazwa.pl
